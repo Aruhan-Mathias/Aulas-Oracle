@@ -15,7 +15,7 @@ public class VariaveisPrimitivas {
 		boolean vBoolean = false;
 		
 		//Guarda um único caractere.
-		char vChar = '1';
+		char vChar = 1;
 		
 	}
 	
